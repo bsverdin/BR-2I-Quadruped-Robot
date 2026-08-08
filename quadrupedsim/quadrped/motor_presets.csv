@@ -1,0 +1,4 @@
+MotorName,Kt_Nm_per_A,Kv_RPM_per_V,NoLoadCurrent_A,MaxCurrent_A,Voltage_V,WindingResistance_Ohm,GearRatio,GearEfficiency,RobotMass_kg,PayloadMass_kg
+Example geared servo,0.080,120,0.20,12,12,0.25,9,0.85,1.20,0.00
+High torque gearbox,0.115,83,0.28,18,14.8,0.18,9,0.82,1.80,0.20
+Fast low reduction motor,0.042,227,0.16,10,12,0.34,9,0.88,0.90,0.00

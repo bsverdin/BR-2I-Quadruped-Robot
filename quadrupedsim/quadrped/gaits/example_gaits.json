@@ -1,0 +1,24 @@
+{
+  "gaits": [
+    {
+      "name": "Long Step Trot",
+      "period": 0.75,
+      "dutyFactor": 0.56,
+      "stepLength": 0.105,
+      "clearance": 0.045,
+      "phaseOffsets": [0.0, 0.5, 0.5, 0.0],
+      "bodyHeight": 0.16,
+      "description": "Diagonal pair trot with a longer stride."
+    },
+    {
+      "name": "Careful Crawl",
+      "period": 1.90,
+      "dutyFactor": 0.80,
+      "stepLength": 0.055,
+      "clearance": 0.035,
+      "phaseOffsets": [0.0, 0.25, 0.5, 0.75],
+      "bodyHeight": 0.155,
+      "description": "Slow crawl with high ground contact time."
+    }
+  ]
+}
